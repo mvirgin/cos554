@@ -1,0 +1,105 @@
+memory use:  800
+input: (0, [0])
+0
+This run took 0.00002340000000 wall time
+
+memory use:  1184
+input: (1, [1])
+1
+This run took 0.00001760000000 wall time
+
+memory use:  784
+input: (2, [1, 2])
+2
+This run took 0.00002200000000 wall time
+
+memory use:  944
+input: (3, [1, 2, 3])
+4
+This run took 0.00002370000000 wall time
+
+memory use:  1304
+input: (4, [1, 2, 3, 4])
+8
+This run took 0.00003210000000 wall time
+
+memory use:  2048
+input: (5, [1, 2, 3, 4, 5])
+16
+This run took 0.00004790000000 wall time
+
+memory use:  3592
+input: (6, [1, 2, 3, 4, 5, 6])
+32
+This run took 0.00008580000000 wall time
+
+memory use:  6800
+input: (7, [1, 2, 3, 4, 5, 6, 7])
+64
+This run took 0.00016640000000 wall time
+
+memory use:  13464
+input: (8, [1, 2, 3, 4, 5, 6, 7, 8])
+128
+This run took 0.00033280000000 wall time
+
+memory use:  27392
+input: (9, [1, 2, 3, 4, 5, 6, 7, 8, 9])
+256
+This run took 0.00071570000000 wall time
+
+memory use:  56232
+input: (10, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+512
+This run took 0.00143830000000 wall time
+
+memory use:  115984
+input: (11, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])
+1024
+This run took 0.00304890000000 wall time
+
+memory use:  240056
+input: (12, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
+2048
+This run took 0.00684700000000 wall time
+
+memory use:  492448
+input: (13, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13])
+4096
+This run took 0.01366610000000 wall time
+
+memory use:  1018152
+input: (14, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14])
+8192
+This run took 0.02950020000000 wall time
+
+memory use:  2103376
+input: (15, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15])
+16384
+This run took 0.06335120000000 wall time
+
+memory use:  4341240
+input: (16, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16])
+32768
+This run took 0.13620510000000 wall time
+
+memory use:  8954232
+input: (17, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17])
+65536
+This run took 0.29373620000000 wall time
+
+memory use:  18446656
+input: (18, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18])
+131072
+This run took 0.62835750000000 wall time
+
+memory use:  37969128
+input: (19, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19])
+262144
+This run took 1.41786160000000 wall time
+
+memory use:  78093232
+input: (20, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20])
+524288
+This run took 3.03676130000000 wall time
+
